@@ -92,6 +92,10 @@ form{
     "footer           footer       footer";
 }
 
+.productos{
+    color: rgb(79, 66, 26);
+}
+
 .row{
     grid-area: row;
     display: flex;
