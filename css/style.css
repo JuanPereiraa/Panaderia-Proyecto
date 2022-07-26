@@ -11,7 +11,7 @@ body{
 header{
     grid-area: header;
     padding: 50px;
-    background-color: rgb(110, 106, 97);
+    background-color: rgb(212, 202, 184);
 }
 ul li{
     list-style-type: none;
@@ -74,12 +74,8 @@ nav ul{
     font-family:Georgia, 'Times New Roman', Times, serif;
 }
 
-form{
-    padding: 10px;
-    margin-top: 100px;
-    margin-bottom: 100px;
-    margin-left: 450px;
-}
+
+
 
 /*producto*/
 .grillaProducto{
@@ -91,6 +87,7 @@ form{
     "row              row          row"
     "footer           footer       footer";
 }
+
 
 .productos{
     color: rgb(79, 66, 26);
