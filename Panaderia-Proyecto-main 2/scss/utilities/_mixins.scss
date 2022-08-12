@@ -1,0 +1,9 @@
+@mixin titulos ($color, $margin-right, $margin-left, $font-family ) {
+    color: $color;
+    margin-right: $margin-right;
+    margin-left: $margin-left;
+    font-family: $font-family; 
+
+}
+
+    

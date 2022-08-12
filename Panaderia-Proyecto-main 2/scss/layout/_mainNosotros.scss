@@ -1,0 +1,10 @@
+.nosotros{
+    grid-area: nosotros;
+    color: rgb(79, 66, 26);
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+.historiaTitulo{
+    @include titulos (rgb(79, 66, 26), 300px, 300px, (Georgia, 'Times New Roman', Times, serif))
+
+}

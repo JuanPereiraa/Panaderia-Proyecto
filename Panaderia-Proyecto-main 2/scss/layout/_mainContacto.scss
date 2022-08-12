@@ -1,0 +1,5 @@
+.contacto{
+    grid-area: tituloContacto;
+    @include titulos (rgb(79, 66, 26), 300px, 300px, (Georgia, 'Times New Roman', Times, serif))
+}
+

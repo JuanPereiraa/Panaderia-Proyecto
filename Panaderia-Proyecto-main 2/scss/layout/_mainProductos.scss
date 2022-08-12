@@ -1,0 +1,9 @@
+main{
+    grid-area: productos;
+
+.productos{
+    grid-area: productos;
+    @include titulos (rgb(79, 66, 26), 300px, 300px, (Georgia, 'Times New Roman', Times, serif))
+
+}
+}
